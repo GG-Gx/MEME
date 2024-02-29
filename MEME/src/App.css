@@ -17,25 +17,26 @@
 .toptext {
   position: absolute;
   top: 50px;
-  left: -50px;
+  left: 0;
   width: 100%;
-  text-align: right;
+  text-align: center;
   color: orange;
-  font-size: 40px;
+  font-size: 25px;
   text-transform: uppercase;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-shadow: 2px 2px 0 #8a1f1f, -2px -2px 0 #5abb47, 2px -2px 0 #a1502b, -2px 2px 0 #c031b9;
   text-wrap: wrap;
+  word-wrap: break-word;
 }
 
 .bottomtext {
   position: absolute;
   bottom: 50px;
-  left: -50px;
+  left: 0;
   width: 100%;
-  text-align: right;
+  text-align: center;
   color: orange;
-  font-size: 40px;
+  font-size: 25px;
   text-transform: uppercase;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-shadow: 2px 2px 0 #8a1f1f, -2px -2px 0 #5abb47, 2px -2px 0 #a1502b, -2px 2px 0 #c031b9;
