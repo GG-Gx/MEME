@@ -1,12 +1,14 @@
-
-import MemeComponent from './components/MemeComponent'
 import './App.css'
+import MemeComponent from "./components/MemeComponent"
 
 function App() {
-  
-  return(
- <MemeComponent />
- )
-  };
-  
-  export default App;
+
+  return (
+    <>
+      <h1>Cool Meme Generator!</h1>
+      <MemeComponent />
+    </>
+  )
+}
+
+export default App
